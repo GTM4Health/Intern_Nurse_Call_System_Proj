@@ -3,8 +3,8 @@
 #include <time.h>
 #include <HTTPClient.h>
 
-const char* ssid = "Adhya";
-const char* password = "hi123456";
+const char* ssid = "Wifi_name";
+const char* password = "wifi_address";
 
 WebServer server(80);
 
