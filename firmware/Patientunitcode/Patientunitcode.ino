@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "Adhya";
-const char* password = "hi123456";
+const char* ssid = "Wifi_name";
+const char* password = "wifi_password";
 
 // IP OF THE NURSE STATION ESP32
 String nurseStationIP = "";
