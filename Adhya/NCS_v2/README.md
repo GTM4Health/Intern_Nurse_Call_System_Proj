@@ -1,4 +1,3 @@
-If you mean **the documentation file (`README.md`)**, yes, we can make it more complete. I'd put this in it:
 
 ````markdown
 # N-Bed Nurse Call System
